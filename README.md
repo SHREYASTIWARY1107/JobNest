@@ -1,4 +1,4 @@
-*JobNest: Empowering Everyday Talent with Learning Opportunities*
+**JobNest: Empowering Everyday Talent with Learning Opportunities**
 
 Project Overview:
 JobNest is a revolutionary platform designed to democratize access to work opportunities and empower individuals from all walks of life. Our project aims to bridge the gap between job seekers and task providers by creating a nurturing ecosystem where every skill is valued and every talent has a chance to shine.
